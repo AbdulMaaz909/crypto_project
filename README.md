@@ -48,26 +48,5 @@ Run the following command to install the necessary dependencies:
 Start the project in development mode:
 ## npm run dev
 
-# Project Structure
-crypto-tracker/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── app/
-│   │   └── store.js               # Redux store setup
-│   ├── components/
-│   │   └── CryptoRow.jsx         # Row UI for each crypto
-│   ├── features/
-│   │   └── crypto/
-│   │       ├── cryptoSlice.js    # Redux slice for crypto data
-│   │       └── CryptoTable.jsx   # Table UI for crypto list
-│   ├── utils/
-│   │   └── mockWebSocket.js      # Mock real-time WebSocket data
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.jsx
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
+
 
