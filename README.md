@@ -1,62 +1,51 @@
-# Crypto Tracker
+## 🌐 Live Project
+## 🔗 https://crypto-project-two-alpha.vercel.app/
 
-A cryptocurrency tracker application that displays real-time data and dynamic charts for various cryptocurrencies. It allows users to track price fluctuations, market data, and volume over different time periods (1h, 24h, 7d).
+# 💹 Crypto Tracker
 
-## Tech Stack & Architecture
+A cryptocurrency tracker application that displays **real-time data** and **dynamic charts** for various cryptocurrencies. Users can monitor **price fluctuations**, **market data**, and **volume** across multiple timeframes (1h, 24h, 7d).
 
-This project was built with the following technologies:
+---
 
-- **Frontend:**
-  - **React**: JavaScript library for building user interfaces.
-  - **Redux**: For state management and handling real-time updates via WebSocket.
-  - **Chart.js**: For rendering dynamic charts that display historical data for each cryptocurrency.
-  - **Tailwind CSS**: Utility-first CSS framework for styling the application.
-  - **Recharts**: For alternative chart rendering where necessary.
+## 🧱 Tech Stack & Architecture
 
-- **Backend :**
-  - **WebSocket/Mock WebSocket Simulation**: For real-time updates on cryptocurrency data.
+### 🔧 Frontend
+- **React** – Building fast and responsive UIs.
+- **Redux Toolkit** – For managing global state and simulating real-time updates.
+- **Chart.js** – To render interactive historical data charts.
+- **Recharts** – For clean and flexible chart components.
+- **Tailwind CSS** – Styling with utility-first classes.
 
-- **Architecture:**
-  - **Component-based architecture** in React for modularity.
-  - **Redux Store** to manage and dispatch state updates across components.
-  - **Real-time updates** using a WebSocket (simulated for demo) to keep the cryptocurrency data updated.
+### 🖥️ Backend
+- **Mock WebSocket Simulation** – Mimics real-time cryptocurrency updates using intervals.
 
-## Setup Instructions
+### 🧩 Architecture
+- **Component-based architecture** – Clean, modular structure.
+- **Redux Store** – Centralized state handling for consistency across components.
+- **Real-time updates** – Handled via simulated WebSocket for demo purposes.
 
-To get started with this project locally, follow the steps below:
+---
 
-### Prerequisites
+## ⚙️ Setup Instructions
 
-1. **Node.js** (version >= 14)
-2. **npm** (or Yarn)
+To run this project locally:
 
-### Steps to run the project:
+### 🛠 Prerequisites
+- **Node.js** v14+
+- **npm** or **Yarn**
 
-1. **Clone the repository:**
+### 🚀 Steps to Run:
 
+1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/crypto-tracker.git
    cd crypto-tracker
+   
+2. **Install dependencies**
+  npm install
 
-2. **Install dependencies:**
-
-Run the following command to install the necessary dependencies:
-## npm install
-
-3. **Run the development server:**
-
-Start the project in development mode:
-## npm run dev
-
-## 🚀Embedded demo GIF or video link
-
-Watch the demo here: [Project Demo Video](https://drive.google.com/file/d/1C9esB9J7TS3Rl5oDiNCW39LJ-2_2PCvX/view?usp=drive_link)
-
-## Diploy project on vercel you can see here live 
-
-# https://crypto-project-two-alpha.vercel.app/
-
-
-
-
+3. **Start the development server**
+   npm run dev
+## 📽️ Embedded Demo Video
+Watch the demo here: [Click to Watch Video](https://shorturl.at/bJXaT)
 
