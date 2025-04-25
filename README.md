@@ -48,5 +48,15 @@ Run the following command to install the necessary dependencies:
 Start the project in development mode:
 ## npm run dev
 
+## 🚀Embedded demo GIF or video link
+
+Watch the demo here: [Project Demo Video](https://drive.google.com/file/d/1C9esB9J7TS3Rl5oDiNCW39LJ-2_2PCvX/view?usp=drive_link)
+
+## Diploy project on vercel you can see here live 
+
+# https://crypto-project-two-alpha.vercel.app/
+
+
+
 
 
